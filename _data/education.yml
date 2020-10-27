@@ -1,9 +1,36 @@
-# Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: The Evergreen State College
+  dates: 2011&ndash;2013
+  qualification: BS Computer Science
   quote: >
-    Short institution or course description (optional)
+    Evergreen is a progressive, public liberal arts and sciences college located in Olympia, Washington, in the beautiful Pacific Northwest.
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    My professors collaborated to develop a computer science program whose curriculum overlapped and interweaved to reinforce domain concepts. The continuity of instruction from the same professors over a multi-year course load helped solidify many important fundamentals for me and has helped me throughout my professional career.
+
+    The <mark>Computer Science Foundations</mark> program was comprised of the following courses:
+    - Introduction to Programming in Haskell
+    - Java Programming I, II
+    - Computer Organization: Digital Logic, Instruction Set Architecture
+    - Computer Architecture I, II: Assembly languages, JVM
+    - Discrete Mathematics I, II, III
+    - Seminar: Explorations in the Cognitive Science of Mathematics and Computing, Ethics and Technology, Explorations in Robotics
+
+    The following year, being fascinated by Computer Science, and having learned proper fundamentals, I continued with <mark>Computability and the Study of Formal Languages</mark> whose coursework included:
+    
+    - Formal Languages I, II
+    - Programming Language Design I, II
+    - Programming Language Design Project I, II
+    - Haskell I
+    - Advanced Haskell II
+
+    I completed my degree with the <mark>Computing Practice and Theory</mark> program which was a project-oriented program focused on pattern matching and modeling within the context of environmental science.
+
+    I can't say enough good things about my experience at Evergreen. The school's unique approach to education gave me a solid foundation in Computer Science and has enabled me to excel as a professional developer.
+- layout: left
+  name: SPSCC
+  dates: 2010&ndash;2011
+  qualification: Associate in Arts
+  quote: >
+    South Puget Sound Community College is a public community college in southwest Olympia, Washington.
+  description: | # this will include new lines to allow paragraphs
+    My first experience with college was at SPSCC. I participated in the "Running Start" program during high school which allowed me to earn high school and college credit simultaneously. I primarily studied Music Theory and Music Composition there.
